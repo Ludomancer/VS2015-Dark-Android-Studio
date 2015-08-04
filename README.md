@@ -1,4 +1,4 @@
-# VS2015 Dark Theme for Android Studio/IntelliJ
+# VS2015 Dark Theme for Android Studio / IntelliJ
 
 - [Notepad++ Version](https://github.com/Nidre/VS2015-Dark-Npp/)
 - [Atom Version](https://github.com/Nidre/VS2015-Dark-Atom/)
