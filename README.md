@@ -3,7 +3,7 @@
 - [Notepad++ Version](https://github.com/Nidre/VS2015-Dark-Npp/)
 - [Atom Version](https://github.com/Nidre/VS2015-Dark-Atom/)
 
-This is as close as I can get to a replica of the Visual Studio 2015's Dark theme in Android Studio/IntelliJ.  Particularly close attention has been paid to Java, C++/C, and HTML.
+This is as close as I can get to a replica of the Visual Studio 2015's Dark theme in Android Studio/IntelliJ.  Particularly close attention has been paid to Java, C++/C, XML and HTML.
 
 Installation
 --------------------------
