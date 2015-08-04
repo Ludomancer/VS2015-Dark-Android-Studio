@@ -52,6 +52,9 @@
         <option name="FOREGROUND" value="4ec9b0" />
       </value>
     </option>
+    <option name="DEFAULT_COMMA">
+      <value />
+    </option>
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -222,6 +225,12 @@
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="93c763" />
+      </value>
+    </option>
+    <option name="WARNING_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="fff200" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
