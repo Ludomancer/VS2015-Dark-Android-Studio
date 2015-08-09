@@ -37,6 +37,11 @@
         <option name="FOREGROUND" value="4ec9b0" />
       </value>
     </option>
+    <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="4ec9b0" />
+      </value>
+    </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="4ec9b0" />
@@ -166,6 +171,7 @@
     <option name="JAVA_KEYWORD">
       <value>
         <option name="FOREGROUND" value="93c763" />
+        <option name="BACKGROUND" value="22282a" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
