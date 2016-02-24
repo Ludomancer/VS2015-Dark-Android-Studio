@@ -7,8 +7,11 @@ This is as close as I can get to a replica of the Visual Studio 2015's Dark them
 
 Installation
 --------------------------
-1. Select *File* → *Import Setting* from the main menu and follow the instructions.
-2. After the IDE restarted go to the Preferences, expand *Editor* → *Colors and fonts* tab and choose the installed theme.
+1. Download settings.jar.
+2. Launch Android Studio.
+3. Select *File* → *Import Settings* from the main menu and select settings.jar.
+4. Restart IDE when asked.
+5. After the IDE restarted go to the Preferences, expand *Editor* → *Colors and fonts* tab and choose the installed theme.
 
 Issues
 ------
