@@ -10,51 +10,51 @@
   </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="22282a" />
-    <option name="GUTTER_BACKGROUND" value="22282a" />
-    <option name="LINE_NUMBERS_COLOR" value="2b91af" />
+    <option name="CARET_ROW_COLOR" value="1E1E1E" />
+    <option name="GUTTER_BACKGROUND" value="1E1E1E" />
+    <option name="LINE_NUMBERS_COLOR" value="2B91AF" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FOREGROUND" value="4EC9B0" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="a082bd" />
+        <option name="FOREGROUND" value="559CD6" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FOREGROUND" value="4EC9B0" />
       </value>
     </option>
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FOREGROUND" value="4EC9B0" />
       </value>
     </option>
     <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FOREGROUND" value="4EC9B0" />
       </value>
     </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FOREGROUND" value="4EC9B0" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="66747b" />
+        <option name="FOREGROUND" value="57A64A" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FOREGROUND" value="4EC9B0" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -67,21 +67,21 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="66747b" />
+        <option name="FOREGROUND" value="608B4E" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="66747b" />
+        <option name="FOREGROUND" value="608B4E" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="66747b" />
+        <option name="EFFECT_COLOR" value="608B4E" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_MARKUP">
       <value>
-        <option name="FOREGROUND" value="66747b" />
+        <option name="FOREGROUND" value="608B4E" />
       </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
@@ -93,23 +93,23 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="93c763" />
+        <option name="FOREGROUND" value="559CD6" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="66747b" />
+        <option name="FOREGROUND" value="608B4E" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="bd63c5" />
+        <option name="FOREGROUND" value="559CD6" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="ffcd22" />
+        <option name="FOREGROUND" value="A6CEA8" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -122,27 +122,27 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="ec7600" />
+        <option name="FOREGROUND" value="EC7600" />
       </value>
     </option>
     <option name="DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="93c763" />
+        <option name="FOREGROUND" value="559CD6" />
       </value>
     </option>
     <option name="ENUM_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b8d7a3" />
+        <option name="FOREGROUND" value="B8D7A3" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FOREGROUND" value="9CDCFE" />
       </value>
     </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="a082bc" />
+        <option name="FOREGROUND" value="00A0A0" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -158,20 +158,20 @@
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="b8d7a3" />
+        <option name="FOREGROUND" value="B8D7A3" />
       </value>
     </option>
     <option name="JAVA_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="ec7600" />
+        <option name="FOREGROUND" value="EC7600" />
         <option name="EFFECT_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="JAVA_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="93c763" />
-        <option name="BACKGROUND" value="22282a" />
+        <option name="FOREGROUND" value="559CD6" />
+        <option name="BACKGROUND" value="1E1E1E" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
@@ -179,12 +179,12 @@
     </option>
     <option name="OC.CONDITIONALLY_NOT_COMPILED">
       <value>
-        <option name="FOREGROUND" value="66747b" />
+        <option name="FOREGROUND" value="608B4E" />
       </value>
     </option>
     <option name="OC.MACRONAME">
       <value>
-        <option name="FOREGROUND" value="bd63c5" />
+        <option name="FOREGROUND" value="559CD6" />
       </value>
     </option>
     <option name="OC.OVERLOADED_OPERATOR">
@@ -192,7 +192,7 @@
     </option>
     <option name="OC.SELFSUPERTHIS">
       <value>
-        <option name="FOREGROUND" value="93c763" />
+        <option name="FOREGROUND" value="559CD6" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -201,12 +201,12 @@
     </option>
     <option name="OC.STRUCT_LIKE">
       <value>
-        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FOREGROUND" value="4EC9B0" />
       </value>
     </option>
     <option name="OC.TYPEDEF">
       <value>
-        <option name="FOREGROUND" value="4ec9b0" />
+        <option name="FOREGROUND" value="4EC9B0" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
@@ -223,14 +223,14 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="f1f2f3" />
-        <option name="BACKGROUND" value="22282a" />
+        <option name="FOREGROUND" value="DCDCDC" />
+        <option name="BACKGROUND" value="1E1E1E" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="93c763" />
+        <option name="FOREGROUND" value="559CD6" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
@@ -241,28 +241,28 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="678cb1" />
+        <option name="FOREGROUND" value="92CAF4" />
       </value>
     </option>
     <option name="XML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="ec7600" />
+        <option name="FOREGROUND" value="C8C8C8" />
       </value>
     </option>
     <option name="XML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="678cb1" />
+        <option name="FOREGROUND" value="92CAF4" />
       </value>
     </option>
     <option name="XML_NS_PREFIX">
       <value>
-        <option name="FOREGROUND" value="678cb1" />
+        <option name="FOREGROUND" value="92CAF4" />
       </value>
     </option>
     <option name="XML_TAG">
       <value>
-        <option name="FOREGROUND" value="f1f2f3" />
-        <option name="BACKGROUND" value="22282a" />
+        <option name="FOREGROUND" value="DCDCDC" />
+        <option name="BACKGROUND" value="1E1E1E" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
